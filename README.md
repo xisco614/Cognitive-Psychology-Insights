@@ -1,2 +1,2 @@
-# Cognitive-Psychology-Insights
-A record of my exploration into Cognitive Psychology. This repository includes summaries and key takeaways from my studies on topics such as cognitive processes, memory systems, and psychological theories. I aim to bridge these concepts with AI to create more intuitive and human-centric technologies.
+# Cybersecurity_Projects
+his repository serves as a record of the research and practical work I’ve done in the cybersecurity field. It covers various projects related to network security, hacking techniques, and digital forensics. I focus on studying the latest cyberattack methods and developing ways to defend against them. This repository will continue to evolve as I refine and share my skills as a cybersecurity professional.
